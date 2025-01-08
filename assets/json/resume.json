@@ -29,8 +29,8 @@
       "url": "https://www.seattleu.edu/",
       "area": "Computer Science",
       "studyType": "Bachelor's",
-      "startDate": "September 2023",
-      "endDate": "Expected June 2026",
+      "startDate": "9-2023",
+      "endDate": "6-2026",
       "score": "10",
       "courses": ["Calculus III" , "Data Structures", "Linear Algebra"]
     },
@@ -40,8 +40,8 @@
       "url": "https://www.olympic.edu/",
       "area": "",
       "studyType": "Associate's Degree",
-      "startDate": "September 2021",
-      "endDate": "June 2023",
+      "startDate": "9-2021",
+      "endDate": "6-2023",
       "score": "10",
       "courses": []
     }
@@ -49,14 +49,14 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2023-2024 Academic Year",
+      "date": "2023-2024",
       "awarder": "Seattle University",
       "url": "https://www.seattleu.edu/office-of-the-registrar/grades/",
       "summary": "The Dean’s List at Seattle University recognizes student academic achievement for undergraduates. To qualify for the Dean’s List, you must earn at least a 3.5 GPA for the quarter and have completed a minimum of 12 graded credits."
     },
     {
       "title": "Presidents's Scholar",
-      "date": "2021-2022 Academic Year, Winter - Spring 2023",
+      "date": "2021-2022, \nWinter - Spring 2023",
       "awarder": "Olympic College",
       "url": "https://www.olympic.edu/student-life-support/enrollment-services/registration-records/student-records/honors/honors-archive",
       "summary": "Completion of 12 credits at the 100 level or higher during the quarter the award is given 3.9 to 4.0 college-level GPA"
