@@ -201,26 +201,6 @@ You can also:
 - delete [\_includes/projects_horizontal.liquid](_includes/projects_horizontal.liquid)
 - delete [\_includes/projects.liquid](_includes/projects.liquid)
 
-### Removing the publications page
-
-To remove the publications, you can:
-
-- delete the [\_bibliography](_bibliography/) directory
-- delete the publications page [\_pages/publications.md](_pages/publications.md)
-- remove reference to publications page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
-
-You can also:
-
-- delete the [\_layouts/bib.liquid](_layouts/bib.liquid) file
-- delete [\_includes/bib_search.liquid](_includes/bib_search.liquid)
-- delete [\_includes/citation.liquid](_includes/citation.liquid)
-- delete [\_includes/selected_papers.liquid](_includes/selected_papers.liquid)
-- delete [\_plugins/google-scholar-citations.rb](_plugins/google-scholar-citations.rb)
-- delete [\_plugins/hide-custom-bibtex.rb](_plugins/hide-custom-bibtex.rb)
-- delete [\_plugins/inspirehep-citations.rb](_plugins/inspirehep-citations.rb)
-- remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-
 ### Removing the repositories page
 
 To remove the repositories, you can:
