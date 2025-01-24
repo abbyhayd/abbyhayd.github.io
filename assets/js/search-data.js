@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "All the games and projects I&#39;ve worked on",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/Projects/";
           },
         },{id: "nav-blog",
           title: "blog",
@@ -60,6 +60,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-protect-the-planet",
+          title: 'Protect the Planet',
+          description: "My first Game Jam!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Planet_Project/";
             },},{
         id: 'social-email',
         title: 'email',
