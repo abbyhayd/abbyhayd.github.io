@@ -33,8 +33,9 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.repository_url }}/download/resume.pdf ">Download <strong>Resume</strong></a></li>
+          <li><a href="{{ '/data/resume.pdf' | relative_url }}" download>Download <strong>Resume</strong></a>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          <li><a href="www.linkedin.com/in/abigayle-doinog">View my <strong>LinkedIn</strong></li>
         </ul>
         {% endif %}
       </header>
@@ -43,12 +44,6 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
