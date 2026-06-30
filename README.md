@@ -36,6 +36,11 @@
   - Configured a Discord bot that returns player stats for specific games when prompted on Discord
   - Independently researched and programmed a Discord bot
   - Python, GitHub, Fortnite API, Discord.py API, and Discord Dev
+ 
+- [Book Sale Service](https://github.com/abbyhayd/BookSale) January 2026 – March 2026 |
+  - Developed a webpage that allows users to purchase books, find information about their authors, and leave reviews
+  - Independently designed and created a dynamic webpage that interacts with RESTful APIs
+  - JavaScript, Typescript, CSS, HTML, React, Express, MongoDB
 
 - [Protect the Planet](https://abbydoorknob.itch.io/protect-the-planet)  December 2024 |
   - Fabricated a single player, top-down shooter game showcasing waves of enemies and an upgrade menu between waves
