@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['abbyhayd/OneWayOut', 'MissionToPsyche-Platinum/platinum_24g_web_game-su','abbyhayd/Protect-the-Planet', 'abbyhayd/HackSU2026', 'abbyhayd/GameStatsBot', 'abbyhayd/BookSale'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['abbyhayd/OneWayOut', 'abbyhayd/Corebound', 'abbyhayd/GameStatsBot', 'abbyhayd/BookSale','abbyhayd/Protect-the-Planet', 'abbyhayd/HackSU2026'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
