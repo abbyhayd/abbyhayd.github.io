@@ -38,7 +38,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Abby Doinog', description: '', imageURL: '' },
   social: {
-    linkedin: 'www.linkedin.com/in/abigayle-doinog',
+    linkedin: 'abigayle-doinog',
     x: '',
     mastodon: '',
     researchGate: '',
